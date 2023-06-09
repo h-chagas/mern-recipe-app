@@ -1,7 +1,7 @@
-## Recipe App ##
-### A MERN webapp project ###
+# Recipe App #
+## A MERN webapp project ##
 
-#### Technologies ####
+### Technologies ###
 
 See the packages used in this project
 
@@ -33,16 +33,16 @@ As a M.E.R.N project, this web application is built using
 * [Express](https://expressjs.com/)
 * [MongoDB](https://www.mongodb.com/)
 
-#### Tips ####
+### Tips ###
 
-##### Environment variable #####
+#### Environment variable ####
 
 In order to hide the database and other API username and passwords, create a .env in the root of the server directory. If you need to use secret information on the front-end side, just add another .env file into the client root directory.
 
-__MongoDB__
+##### MongoDB #####
 
 I named the username and password variables as MONGODB_USERNAME and MONGODB_PASSWORD. You can change it as you like in _index.js_ file
 
-__Token for JsonWebToken__
+##### Token for JsonWebToken #####
 
 I named the token variable as JWT_TOKEN. You can change it as you like in _users.js_ (server > src > routes) file
