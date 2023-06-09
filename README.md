@@ -1,5 +1,5 @@
 # Recipe App #
-## A MERN webapp project ##
+##### A MERN webapp project #####
 
 ### Technologies ###
 
