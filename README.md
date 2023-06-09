@@ -8,6 +8,12 @@ See the packages used in this project
 ##### Client side #####
 
 * React framework
+* [react-router-dom](https://www.npmjs.com/package/react-router-dom)
+    * _Declarative routing for React web applications_
+* [axios](https://www.npmjs.com/package/axios)
+    * _Promise based HTTP client for the browser and node.js_
+* [react-cookie](https://www.npmjs.com/package/react-cookie)
+    * _Universal cookies for JavaScript_
 
 ##### Server side #####
 
