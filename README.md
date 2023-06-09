@@ -1,7 +1,7 @@
 # Recipe App #
 ##### A MERN webapp project #####
 
-_It is the BACK-END side of the project. To visit the front-end, please check_ [here](blablablahttps://github.com/h-chagas/mern-recipe-app-front-end)
+_It is the BACK-END side of the project. To visit the front-end, please check_ [here](https://github.com/h-chagas/mern-recipe-app-front-end)
 
 ### Technologies ###
 
