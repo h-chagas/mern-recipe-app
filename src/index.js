@@ -21,5 +21,5 @@ app.use("/recipes", recipesRouter);
 mongoose.connect(`mongodb+srv://${process.env.MONGODB_USERNAME}:${process.env.MONGODB_PASSWORD}@recipes.jehmlkb.mongodb.net/recipes?retryWrites=true&w=majority`)
 
 //Run Server
-app.listen(3001, () => console.log("Server started!"));
+app.listen(process.env.PORT || 3001, () => console.log("Server started!"));
 
