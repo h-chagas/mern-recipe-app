@@ -54,3 +54,7 @@ I named the username and password variables as MONGODB_USERNAME and MONGODB_PASS
 ##### Token for JsonWebToken #####
 
 I named the token variable as JWT_TOKEN. You can change it as you like in _users.js_ (server > src > routes) file
+
+###### Deployment ######
+
+Click [here](https://mern-recipe-api.onrender.com) to access the deployed API.
